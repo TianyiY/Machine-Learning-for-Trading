@@ -1,1 +1,3 @@
-models for price prediction
+models for price prediction：
+
+Use optimized RNN model to predict the trend of the future price. 
